@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitAPI</string>
+    <string name="author">Alexander Kuch</string>
+    <string name="title">Två timmar till av mitt liv Tesla tagit och jag aldrig får tillbakaAlexander Kuch</string>
+    <string name="topBar">List of Articles</string>
+    <string name="description">In private, he\'s sought legal outs from the deal he signed. In public, he has often seemed determined to present himself as an unacceptable custodian of the digital town square.</string>
+    <string name="url">https://www.esquire.com/news-politics/a40709381/elon-musk-buy-twitter/</string>
+    <string name="publishedAt">2022-07-27T16:24:00Z</string>
+</resources>
